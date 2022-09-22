@@ -1,0 +1,36 @@
+.requiremtns h3{
+    margin-left: 22%;
+}
+#Startdate{
+    width: 68%;
+    height: 7vh;
+    margin-top: 3%;
+    margin-left: 4%;
+    border-radius: 12px;
+    
+}
+#enddate{
+    width: 68%;
+    height: 7vh;
+    margin-top: 3%;
+    margin-left: 6%;
+    border-radius: 12px;
+}
+.addfile{
+    margin-left: 33%;
+    margin-top: 5%;
+
+}
+.savebtn{
+    height: 6vh;
+    margin-left: 33%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    width: 46%;
+}
+.inputprojectname{
+    height: 7vh;
+    margin-left: 30%;
+    width: 66%;
+    border-radius: 12px;
+}
